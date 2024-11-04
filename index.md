@@ -83,6 +83,7 @@ This month I dyed my hair twice: first a light and barely noticeable red, and th
 ## Readings (in the works)
 1. [Blog posts](https://nicholas.carlini.com/writing) by Nicholas Carlini, especially the ones on [building a CPU using Conway's Game of Life](https://nicholas.carlini.com/writing/2020/intro-to-circuits-game-of-life.html) and on [breaking (buggy) defenses](https://nicholas.carlini.com/writing/2024/yet-another-broken-defense.html)
 2. [Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations](https://anishk23733.github.io/vl-interp/) _Jiang et. al._
+3. [Lenia](https://chakazul.github.io/lenia.html) multiple papers on multiple variants
 
 ## Misc Thoughts
 
