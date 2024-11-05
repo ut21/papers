@@ -88,7 +88,7 @@ This month I dyed my hair twice: first a light and barely noticeable red, and th
 
 ## Misc Thoughts
 
-Based on some of the papers I mentioned in October, this is what I have been thinking about - the ideas are very underdeveloped. I'd love to chat about these if you have any insights:
+3rd Nov: Based on some of the papers I mentioned in October, this is what I have been thinking about - the ideas are very underdeveloped. I'd love to chat about these if you have any insights:
 
 ### World Models - 
 Othello-GPT: In the [emergent world models paper](https://arxiv.org/pdf/2210.13382) the authors use non-linear probing classifiers to prove that a world model emerges, and then make changes to the internal state representations(causal interventions) and observe changes in the outcome to prove that this world model is used for inference. 
@@ -102,3 +102,5 @@ Neel Nanda, in an [extension work](https://www.neelnanda.io/mechanistic-interpre
 Is there also a causal relationship between the linearity or non-linearity of the world models and the class of language it is trained on?
 
 The papers on [Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) and [Disentangling Representations](https://arxiv.org/pdf/2407.11249) may also be helpful, but I'm not sure how.
+
+6th Nov: I seem to have bitten more than I can chew and am having an intense week! I am TAing for two courses: one on logic on campus and one on discrete math for my unveristy's degree program on coursera and need to create solutions for ~50 prop and pred logic problems and need to correct (1 question in) ~500 papers! All this on top of preparing for a Verilog lab test and the due dilligence for the college election commission (the last bit i'm not complaining too much about because, and without too much away, the work included chatting at ANC for an hour about different voting systems and which seems feasible to implement for this, uh, new thing we need). See you on the other side :D
