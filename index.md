@@ -85,6 +85,7 @@ This month I dyed my hair twice: first a light and barely noticeable red, and th
 2. [Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations](https://anishk23733.github.io/vl-interp/) _Jiang et. al._
 3. [Lenia](https://chakazul.github.io/lenia.html) multiple papers on multiple variants
 4. [What Formal Languages Can Transformers Express? A Survey](https://arxiv.org/pdf/2311.00208) A very useful paper by _Strobl et. al._
+5. [Convolutional Differentiable Logic Gate Networks](https://arxiv.org/abs/2411.04732) by _Petersen et. al._
 
 ## Misc Thoughts
 
@@ -104,3 +105,4 @@ Is there also a causal relationship between the linearity or non-linearity of th
 The papers on [Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) and [Disentangling Representations](https://arxiv.org/pdf/2407.11249) may also be helpful, but I'm not sure how.
 
 6th Nov: I seem to have bitten more than I can chew and am having an intense week! I am TAing for two courses: one on logic on campus and one on discrete math for my unveristy's degree program on coursera and need to create solutions for ~50 prop and pred logic problems and need to correct (1 question in) ~500 papers! All this on top of preparing for a Verilog lab test and the due dilligence for the college election commission (the last bit i'm not complaining too much about because, and without giving too much away, the work included chatting at ANC for an hour about different voting systems and which seems feasible to implement for this, uh, new thing we need). See you on the other side :D
+
