@@ -80,12 +80,16 @@ This month I dyed my hair twice: first a light and barely noticeable red, and th
 
 # November 2024
 
-## Readings (in the works)
+## Readings
 1. [Blog posts](https://nicholas.carlini.com/writing) by Nicholas Carlini, especially the ones on [building a CPU using Conway's Game of Life](https://nicholas.carlini.com/writing/2020/intro-to-circuits-game-of-life.html) and on [breaking (buggy) defenses](https://nicholas.carlini.com/writing/2024/yet-another-broken-defense.html)
 2. [Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations](https://anishk23733.github.io/vl-interp/) _Jiang et. al._
 3. [Lenia](https://chakazul.github.io/lenia.html) multiple papers on multiple variants
 4. [What Formal Languages Can Transformers Express? A Survey](https://arxiv.org/pdf/2311.00208) A very useful paper by _Strobl et. al._
 5. [Convolutional Differentiable Logic Gate Networks](https://arxiv.org/abs/2411.04732) by _Petersen et. al._
+6. [Deep Differentiable Logic Gate Networks](https://arxiv.org/pdf/2210.08277) by _Petersen et. al._ (without discounting the authors - sometimes you come across things which feel so natural once theyre done that you think why didnt i think of that)
+7. [Learning Elementary Cellular Automata with Transformers](https://openreview.net/forum?id=rROdzn4DSb) by _Mikhail Burtsev_
+8. [Transition-based Parsing with Stack-Transformers](https://aclanthology.org/2020.findings-emnlp.89/) by _Astudillo et. al._
+9. [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf) by by _Bender et. al._
 
 ## Misc Thoughts
 
@@ -104,5 +108,7 @@ Is there also a causal relationship between the linearity or non-linearity of th
 
 The papers on [Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) and [Disentangling Representations](https://arxiv.org/pdf/2407.11249) may also be helpful, but I'm not sure how.
 
-6th Nov: I seem to have bitten more than I can chew and am having an intense week! I am TAing for two courses: one on logic on campus and one on discrete math for my unveristy's degree program on coursera and need to create solutions for ~50 prop and pred logic problems and need to correct (1 question in) ~500 papers! All this on top of preparing for a Verilog lab test and the due dilligence for the college election commission (the last bit i'm not complaining too much about because, and without giving too much away, the work included chatting at ANC for an hour about different voting systems and which seems feasible to implement for this, uh, new thing we need). See you on the other side :D
+
+### Emergent Stacks?
+We know from [1](https://openreview.net/pdf?id=yyffl6d3byq) and [2](https://arxiv.org/pdf/1906.06755) that $a^nb^n$, a context free language modelled by a stack, is learnable by a transformer, but that other CFLs like $Dyck$ (well formed parenthesis) also modelled by stack operations are not learnable. Can you use probing classifiers to see if there is a stack in the internal representation of a model trained on $a^nb^n$? If so, will it contain a stack? If so, we know that stacks arent the bottleneck for learning CFLs but the "complexity" of the algorithm over the stack is. Kind of like this [joke](https://www.google.com/url?sa=i&url=https%3A%2F%2Fph.pinterest.com%2Fpin%2Fpjevans-ayevans-cars-have-windows-and-can-move-houses-have-windows-and-cant-move-so-its-not-the-windows-that-make-the-car-go-its-something-else-entirely-2--423831014942937211%2F&psig=AOvVaw1JeYwz2gbl5lLVQXT22klc&ust=1731984741398000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDcw4vw5IkDFQAAAAAdAAAAABAE)
 
