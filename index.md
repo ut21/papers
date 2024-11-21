@@ -113,3 +113,12 @@ The papers on [Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07
 ### Emergent Stacks(?) - 
 We know from [1](https://openreview.net/pdf?id=yyffl6d3byq) and [2](https://arxiv.org/pdf/1906.06755) that $a^nb^n$, a context free language modelled by a stack, is learnable by a transformer, but that other CFLs like $Dyck$ (well formed parenthesis) also modelled by stack operations are not learnable. Can you use probing classifiers to see if there is a stack in the internal representation of a model trained on $a^nb^n$? If so, will it contain a stack? If so, we know that stacks arent the bottleneck for learning CFLs but the "complexity" of the algorithm over the stack is. Kind of like this [joke](https://www.google.com/url?sa=i&url=https%3A%2F%2Fph.pinterest.com%2Fpin%2Fpjevans-ayevans-cars-have-windows-and-can-move-houses-have-windows-and-cant-move-so-its-not-the-windows-that-make-the-car-go-its-something-else-entirely-2--423831014942937211%2F&psig=AOvVaw1JeYwz2gbl5lLVQXT22klc&ust=1731984741398000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDcw4vw5IkDFQAAAAAdAAAAABAE)
 
+Preliminary experiments on seem to be promising:
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="acc_prob.png" alt="Aphex Twin Spectogram" style="max-width: 100%;">
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="probe_loss.png" alt="Charli XCX Spectrogram" style="max-width: 100%;">
+  </div>
+</div>
