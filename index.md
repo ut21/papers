@@ -74,7 +74,7 @@ I'll upload the code once I add more functionality to add harmonies and image fi
 
 ## Misc Thoughts
 
-This month I also thought a lot about archives. I found my old emails, old letterboxd logs, old word doc journals, and so on, and it was such a trip for reasons stronger than nostalgia. I could trace the origins of my personality, politics, tastes, and interest in real time. It's very sad that I haven't archived my life as ferocity in college as I had before so the only repository of change is in the imperfect memory storage of my brain. This blog at least acts as an archive of my academic evolution. 
+This month I also thought a lot about archives. I found my old emails, old letterboxd logs, old word doc journals, and so on, and it was such a trip for reasons stronger than nostalgia. I could trace the origins of my personality, politics, tastes, and interest in real time. It's very sad that I haven't archived my life with as much ferocity in college as I had before so the only repository of change is in the imperfect memory storage of my brain. This blog at least acts as an archive of my academic evolution. 
 
 This month I dyed my hair twice: first a light and barely noticeable red, and then bleached them before putting on a bright pink, something I had wanted to do since my first year and finally decided to go for it after I saw a tweet of Alfredo Canziani with an offensively pink head. I also recorded a podcast episode with Professor Jagat S. Challa which can be heard [here](https://open.spotify.com/episode/3ZIzmrevw5k37Fhn0dVWmT?si=c874fead83514124)
 
