@@ -90,6 +90,7 @@ This month I dyed my hair twice: first a light and barely noticeable red, and th
 7. [Learning Elementary Cellular Automata with Transformers](https://openreview.net/forum?id=rROdzn4DSb) by _Mikhail Burtsev_
 8. [Transition-based Parsing with Stack-Transformers](https://aclanthology.org/2020.findings-emnlp.89/) by _Astudillo et. al._
 9. [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf) by by _Bender et. al._
+10. [Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion](https://arxiv.org/pdf/2401.12947v1) by _Zhang et. al._
 
 ## Misc Thoughts
 
@@ -109,6 +110,6 @@ Is there also a causal relationship between the linearity or non-linearity of th
 The papers on [Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) and [Disentangling Representations](https://arxiv.org/pdf/2407.11249) may also be helpful, but I'm not sure how.
 
 
-### Emergent Stacks?
+### Emergent Stacks(?) - 
 We know from [1](https://openreview.net/pdf?id=yyffl6d3byq) and [2](https://arxiv.org/pdf/1906.06755) that $a^nb^n$, a context free language modelled by a stack, is learnable by a transformer, but that other CFLs like $Dyck$ (well formed parenthesis) also modelled by stack operations are not learnable. Can you use probing classifiers to see if there is a stack in the internal representation of a model trained on $a^nb^n$? If so, will it contain a stack? If so, we know that stacks arent the bottleneck for learning CFLs but the "complexity" of the algorithm over the stack is. Kind of like this [joke](https://www.google.com/url?sa=i&url=https%3A%2F%2Fph.pinterest.com%2Fpin%2Fpjevans-ayevans-cars-have-windows-and-can-move-houses-have-windows-and-cant-move-so-its-not-the-windows-that-make-the-car-go-its-something-else-entirely-2--423831014942937211%2F&psig=AOvVaw1JeYwz2gbl5lLVQXT22klc&ust=1731984741398000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDcw4vw5IkDFQAAAAAdAAAAABAE)
 
