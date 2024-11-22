@@ -122,3 +122,8 @@ Preliminary experiments on seem to be promising:
     <img src="probe_loss.png" alt="Charli XCX Spectrogram" style="max-width: 100%;">
   </div>
 </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="control.png" alt="New Image" style="max-width: 50%;">
+  </div>
+</div>
