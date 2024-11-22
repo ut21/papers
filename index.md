@@ -124,6 +124,9 @@ Preliminary experiments on seem to be promising:
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="margin: 10px; text-align: center;">
-    <img src="control.png" alt="New Image" style="max-width: 50%;">
+    <img src="control.png" alt="Aphex Twin Spectogram" style="max-width: 100%;">
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="ablate.png" alt="Charli XCX Spectrogram" style="max-width: 100%;">
   </div>
 </div>
