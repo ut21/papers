@@ -91,6 +91,8 @@ This month I dyed my hair twice: first a light and barely noticeable red, and th
 8. [Transition-based Parsing with Stack-Transformers](https://aclanthology.org/2020.findings-emnlp.89/) by _Astudillo et. al._
 9. [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://aclanthology.org/2020.acl-main.463.pdf) by by _Bender et. al._
 10. [Transformer-Based Models Are Not Yet Perfect At Learning to Emulate Structural Recursion](https://arxiv.org/pdf/2401.12947v1) by _Zhang et. al._
+11. [Analyzing (In)Abilities of SAEs via Formal Languages](https://www.arxiv.org/pdf/2410.11767) by _Menon et. al._
+12 [Sparse Autoencoders Enable Scalable and Reliable Circuit Identification in Language Models](https://arxiv.org/pdf/2405.12522v1) by _O’Neill et. al._
 
 ## Misc Thoughts
 
