@@ -135,4 +135,12 @@ Preliminary experiments on seem to be promising:
 
 # December 2024
 
-Hi! Half the month flew past taking the end-sem tests, and the other half is flying past recovering from them. Loosely I worked a bit on the stack probes experiment with largely promising results but its still very nascent. Also wrote a couple cold emails trying to field advice on some sections of the experiments. Tune in next month (and year, happy new year!)
+Hi! Half the month flew past taking the end-sem tests, and the other half is flying past recovering from them, lounging on the terrace under the mid-day winter sun. I am also trying and failing to read more, and succeeding at catching up on old films and friends.
+
+Loosely I worked a bit on the stack probes experiment with largely promising results but its still very nascent. Here is proof that i wrote any code:
+<div style="margin: 10px; text-align: center;">
+    <img src="high_res_plot_task.png" alt="High Resolution Plot Task" style="max-width: 100%;">
+</div>
+ Also wrote a couple cold emails trying to field advice on some sections of the experiments. 
+
+Tune in next month (and year, happy new year!)
