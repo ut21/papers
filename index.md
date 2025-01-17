@@ -144,3 +144,9 @@ Loosely I worked a bit on the stack probes experiment with largely promising res
  Also wrote a couple cold emails trying to field advice on some sections of the experiments. 
 
 Tune in next month (and year, happy new year!)
+
+# January 2025
+
+Happy new year! As of today, 17 Jan, this months has been the most consistently productive and frustrating month in a long time. The curiousity in reasoning and interpretability which, as far back as I can see, began in August of last year seems to be coming to (at least some initial) stages of fruition: there are ~3 projects that we are hoping to submit to 2 venues by the end of this month. There is, as always, a chance that we don't meet the deadlines or the experiments fall through, or something else from the million things that can happen and we don't produce the papers we aer working on, but from the vantage point of being a little less than 2 weeks away from the submission dates things look hopeful. 
+
+No papers-i-read-this-month list for now, but hopefully I can soon add my own papers to a future list! See you soon :)
