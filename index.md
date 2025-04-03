@@ -159,6 +159,10 @@ But dont you think this opens up a lot of fundamental questions - what is intell
 
 # April 2025
 
-3 April: So the streak seems to be finally broken. It stretched for longer than I was expecting anyways so not complaining. Quick updates of what's going on: Both papers accepted at both venues! Aviral and I will be in Singapore from 22-30 April to present the emergent stack paper at ICLR 2025 yay. I am taking a break from doing any new research until I am able to figure out a new problem, which means the project with Prof. Hahn is on pause. Instead, I joined Pavo AI as an intern and am having a fun time (it pays for my ANC splurges :p). The internship is online and the founders are really cool people. I haven't seriously read any papers in the past month but there are so many amazing works that i skimmed. A few of them are:
+3 April: So the streak seems to be finally broken. It stretched for longer than I was expecting anyways so not complaining. Quick updates of what's going on: Both papers accepted at both venues! Aviral and I will be in Singapore from 22-30 April to present the emergent stack paper at ICLR 2025 yay. I am taking a break from doing any new research until I am able to figure out a new problem, which means the project with Prof. Hahn is on pause. Instead, I joined Pavo AI as an intern and am having a fun time (it pays for my ANC splurges :p). The internship is online and the founders are really cool people. I haven't seriously read any papers in the past month but there are so many amazing works that i skimmed. I find myself more drawn to "position track" and AI-philosophy -esque papers. A few of them are:
 
-1. 
+1. [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/) by Miotti _et. al._
+2. [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) by Antropic
+3. [attention is logarithmic, actually](https://supaiku.com/attention-is-logarithmic#attention-is-logarithmic-actually) blog by supaiku
+
+etc. etc. 
